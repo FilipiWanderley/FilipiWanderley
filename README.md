@@ -1,6 +1,6 @@
 # Olá, eu sou Filipi Moraes 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B82F6&width=500&lines=UX%2FUI+Designer+%26+Desenvolvedor+Full+Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B91C1C&width=500&lines=UX%2FUI+Designer+%26+Desenvolvedor+Full+Stack)](https://git.io/typing-svg)
 
 > Criando experiências digitais end-to-end: do Design à Arquitetura Full Stack
 
