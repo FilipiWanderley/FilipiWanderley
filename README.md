@@ -1,6 +1,6 @@
 # Olá, eu sou Filipi Moraes 👋
 
-### UX/UI Designer & Desenvolvedor Full Stack
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B82F6&width=435&lines=UX%2FUI+Designer;Desenvolvedor+Full+Stack;Design+%2B+C%C3%B3digo+%3D+%F0%9F%92%99)](https://git.io/typing-svg)
 
 > Criando experiências digitais end-to-end: do Design à Arquitetura Full Stack
 
@@ -32,12 +32,6 @@ Sou um profissional híbrido que conecta **Design de Experiência** com **Desenv
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=FilipiWanderley&theme=dracula&hide_border=true)
 
 ---
 
