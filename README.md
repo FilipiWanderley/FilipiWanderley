@@ -61,15 +61,6 @@ Sou um profissional híbrido que conecta a lógica da **Engenharia** com a usabi
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FilipiWanderley&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipiWanderley&layout=compact&theme=dracula"/>
-</div>
-
----
-
 ## 📫 Vamos Conversar?
 
 <div align="center">
