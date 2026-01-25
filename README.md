@@ -201,7 +201,7 @@ const filipimoraes = {
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=FilipiWanderley&bg_color=0B1220&color=C9D1D9&line=1D9BF0&point=1D9BF0&area=true&hide_border=true"
-    alt="Gráfico de atividade"
+    
   />
 </p>
 
