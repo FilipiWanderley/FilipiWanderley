@@ -1,82 +1,73 @@
-# Olá, eu sou Filipi Moraes 👋
-
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B91C1C&width=500&lines=Engenheiro+de+Software+%26+Full+Stack;Java+Spring+Boot+%7C+React.js;UX%2FUI+Design+%26+Arquitetura;Automa%C3%A7%C3%A3o+Industrial+%26+IA" alt="Typing SVG" />
-  </a>
-</div>
+  <img src="https://raw.githubusercontent.com/FilipiWanderley/FilipiWanderley/main/banner-azul.png" alt="Filipi Moraes Banner" width="100%">
 
-<div align="center">
-  <i>Transformando problemas complexos em software escalável: do Design à Engenharia de Backend.</i>
+  <h1>Filipi Moraes</h1>
+  <p><strong>Software Engineer | Full Stack Developer | Java (Spring Boot) & React (Next.js) | UI/UX Design</strong></p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/filipimoraes"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://github.com/FilipiWanderley"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+    <a href="https://www.behance.net/filipimoraes1"><img src="https://img.shields.io/badge/Behance-0057ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a>
+  </p>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=FilipiWanderley&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=0078D4&icon_color=0078D4" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipiWanderley&layout=compact&theme=tokyonight&hide_border=true&title_color=0078D4" alt="Top Langs">
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=FilipiWanderley&color=0078D4&style=flat-square&label=Visualizações+do+Perfil" alt="Views">
+  </p>
 </div>
 
 ---
 
-## 🧑‍💻 Sobre Mim
+## 🚀 Sobre Mim
 
-Sou um profissional híbrido que conecta a lógica da **Engenharia** com a usabilidade do **Design**. Com background em Automação Industrial e Análise de Sistemas, hoje foco na construção de arquiteturas robustas e interfaces intuitivas.
+Especialista em unir engenharia de precisão com design centrado no humano para escalar produtos digitais. Com mais de **9 anos de atuação** como desenvolvedor em sistemas críticos, atuo como a ponte entre a necessidade do usuário e a viabilidade técnica, garantindo robustez e fluidez.
 
-- ☕ **Backend:** Especialista em **Java (Spring Boot)**, APIs RESTful e Arquitetura de Microsserviços.
-- ⚛️ **Frontend:** Criação de interfaces Pixel-Perfect com **React, Next.js e TypeScript**.
-- 🎨 **Design:** UX/UI com foco em Design Systems (Figma).
-- ⚙️ **Engenharia:** Automação de processos com **Python, N8N, CLP e Ignition**.
-- 🌐 **Portfólio:** [filipimoraes.com](https://filipimoraes.com)
+```java
+public class FilipiMoraes implements SeniorDeveloper {
+    String nome = "Filipi Moraes";
+    String cargo = "Software Engineer & Full Stack Developer";
+    String formacao = "Engenharia de Software na UniFatecie"; //
+    
+    String[] stack_tecnica = {
+        "backend": "Java 17+, Spring Boot, Node.js, REST APIs, Microservices", //
+        "frontend": "React, Next.js, TypeScript, Tailwind CSS, UI/UX Design", //
+        "cloud": "AWS, Azure, Docker, PostgreSQL, MySQL", //
+        "ferramentas": "VS Code, Figma, Postman, Git, N8N, CLP/Ignition" //
+    };
 
----
+    String[] diferenciais = {
+        "Performance: Redução de 25% no tempo de resposta via otimização SQL", //
+        "Agilidade: Aceleração de 40% na entrega com Design Systems escaláveis", //
+        "Resiliência: Experiência em operações críticas e plataformas offshore" //
+    };
+}
+💻 Stack Tecnológica
+Desenvolvimento Frontend & Design
+<p> <img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" alt="React"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Next.js-000000%3Fstyle%3Dfor-the-badge%26logo%3Dnext.js%26logoColor%3Dwhite" alt="Next.js"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TS"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind_CSS-38B2AC%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite" alt="Tailwind"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Sass-CC6699%3Fstyle%3Dfor-the-badge%26logo%3Dsass%26logoColor%3Dwhite" alt="Sass"> </p>
 
-## 🛠️ Tech Stack
+Backend, Database & Cloud
+<p> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Java-007396%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3Dwhite" alt="Java"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Spring_Boot-6DB33F%3Fstyle%3Dfor-the-badge%26logo%3Dspring-boot%26logoColor%3Dwhite" alt="Spring Boot"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnode.js%26logoColor%3Dwhite" alt="Node.js"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/AWS-232F3E%3Fstyle%3Dfor-the-badge%26logo%3Damazon-aws%26logoColor%3Dwhite" alt="AWS"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Azure-0089D6%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoft-azure%26logoColor%3Dwhite" alt="Azure"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-336791%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="Postgres"> </p>
 
-### • Languages
-<div style="display: inline_block">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-</div>
+Ferramentas & Automação Industrial
+<p> <img src="https://www.google.com/search?q=https://img.shields.io/badge/VS_Code-007ACC%3Fstyle%3Dfor-the-badge%26logo%3Dvisual-studio-code%26logoColor%3Dwhite" alt="VS Code"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/N8N-FF6C37%3Fstyle%3Dfor-the-badge%26logo%3Dn8n%26logoColor%3Dwhite" alt="N8N"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Postman-FF6C37%3Fstyle%3Dfor-the-badge%26logo%3Dpostman%26logoColor%3Dwhite" alt="Postman"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/CLP-004C99%3Fstyle%3Dfor-the-badge%26logo%3Dautomation%26logoColor%3Dwhite" alt="Automation"> </p>
+📊 Distribuição de ExpertiseÁrea de AtuaçãoProficiênciaDestaque PrincipalArquitetura Backend██████████ 95%Java 17+, microserviços e APIs REST robustas.Integração Cloud█████████░ 90%Orquestração em AWS/Azure e containerização Docker.Desenvolvimento Frontend█████████░ 90%Interfaces performáticas em React e Next.js.UX/UI & Design Systems████████░░ 80%Design centrado no usuário e acessibilidade (WCAG).Automação Industrial████████░░ 80%Sistemas críticos e manutenção offshore.
+🚀 Projetos em Destaque🏥 CRM Boa FormaImpacto: Ecossistema completo para gestão fitness com alta disponibilidade.Stack: Java, Spring Boot, React, PostgreSQL.Destaque: Arquitetura escalável para alto volume de acessos e dados sensíveis.⚖️ Aurum AdvocaciaImpacto: Modernização digital para o setor jurídico com Design System próprio.Stack: Next.js, Tailwind, Figma.Destaque: Redução de 40% no tempo de entrega de novas funcionalidades.⭐ Meus DiferenciaisCaracterísticaAplicação PráticaEngenharia de PrecisãoLógica industrial aplicada à resolução de problemas de software.Otimização de CódigoRedução de 25% no tempo de resposta via queries SQL eficientes.Entrega EscalávelComponentização que acelera o desenvolvimento front-end em 40%.Foco em ResiliênciaGarantia de 100% de disponibilidade para dados sensíveis.
+🏗️ Atividade de Contribuições
+<p align="center"> <img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DFilipiWanderley%26theme%3Dtokyonight%26bg_color%3D0D1117%26color%3D0078D4%26line%3D0078D4%26point%3DFFFFFF%26area%3Dtrue%26hide_border%3Dtrue" width="100%"> </p>
 
-### • Backend & Architecture
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=for-the-badge&logo=docker&logoColor=white)
+🎯 Aberta a Oportunidades | Open to Opportunities
+JSON
+{
+  "buscando": "Software Engineer Senior / Especialista Full Stack",
+  "foco": ["Arquitetura Java", "Ecossistema React/Next.js", "Cloud Infrastructure"],
+  "disponibilidade": "Imediata",
+  "modelo_trabalho": ["Remoto", "Híbrido"],
+  "localizacao": "Recife, Brasil (Aberto a realocação)"
+}
+<div align="center"> <h3>📫 Vamos nos conectar?</h3> <p align="center"> <a href="mailto:filipiwms@gmail.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"></a> <a href="https://www.google.com/search?q=https://wa.me/5581995866387"><img src="https://www.google.com/search?q=https://img.shields.io/badge/WhatsApp-25D366%3Fstyle%3Dfor-the-badge%26logo%3Dwhatsapp%26logoColor%3Dwhite" alt="WhatsApp"></a> </p>
 
-### • Frontend & Design
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![UI/UX](https://img.shields.io/badge/UI%2FUX_Design-FF61F6?style=for-the-badge&logo=adobe&logoColor=white)
+<p><i>"A robustez do código nunca deve comprometer a fluidez da experiência." </i></p> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/FilipiWanderley/FilipiWanderley/main/footer-azul.png" width="100%">
 
-### • Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### • DevOps, Automation & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![N8N](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
-![Scrum](https://img.shields.io/badge/scrum-%230575E6.svg?style=for-the-badge&logo=scrum&logoColor=white)
-
----
-
-## 📫 Vamos Conversar?
-
-<div align="center">
-  <a href="https://linkedin.com/in/filipimoraes" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://github.com/FilipiWanderley" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
-  </a>
-  <a href="mailto:filipiwms@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://wa.me/5581995866387" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://filipimoraes.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank" />
-  </a>
 </div>
