@@ -210,7 +210,6 @@ const filipimoraes = {
 <p align="center">
   <img
     src="https://github-profile-trophy.vercel.app/?username=FilipiWanderley&theme=algolia&no-frame=true&row=1&column=7"
-    alt="Troféus do GitHub"
   />
 </p>
 
