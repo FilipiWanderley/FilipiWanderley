@@ -1,31 +1,36 @@
 <!-- =========================================================
      FILIPI MORAES • GITHUB PROFILE README
-     Blue Theme • HTML Safe Version (PT-BR)
+     Red Gradient Theme • HTML Safe Version (PT-BR)
 ========================================================= -->
 
+<!-- BANNER TOPO (VERMELHO DEGRADÊ) -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Filipi%20Moraes&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=52&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlign=50&descAlignY=60&animation=twinkling&color=0:0B1220,50:0A3D91,100:1D9BF0"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Filipi%20Moraes&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=56&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlign=50&descAlignY=62&animation=twinkling&color=0:0B1220,50:9B111E,100:FF3B30"
   />
 </p>
 
-<h3 align="center">
-  Transformando problemas complexos em software escalável — da engenharia ao design.
-</h3>
+<!-- FRASE “ANDANDO” (SVG ANIMADO) -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=2600&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Transformando+problemas+complexos+em+software+escal%C3%A1vel+%E2%80%94+da+engenharia+ao+design."
+    alt="Texto animado"
+  />
+</p>
 
 <!-- BOTÕES TOPO -->
 <p align="center">
   <a href="https://www.linkedin.com/in/filipimoraes" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-1D9BF0?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-9B111E?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.behance.net/filipimoraes1" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Behance-0A3D91?style=for-the-badge&logo=behance&logoColor=white" />
+    <img src="https://img.shields.io/badge/Behance-B31217?style=for-the-badge&logo=behance&logoColor=white" />
   </a>
   <a href="mailto:filipiwms@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://filipimoraes.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Portfólio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfólio-FF3B30?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://github.com/FilipiWanderley" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white" />
@@ -34,9 +39,9 @@
 
 <!-- CONTADORES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FilipiWanderley&label=Profile%20Views&color=1D9BF0" />
-  <img src="https://img.shields.io/github/followers/FilipiWanderley?label=Followers&color=0A3D91" />
-  <img src="https://img.shields.io/github/stars/FilipiWanderley?label=Stars&color=0A3D91" />
+  <img src="https://komarev.com/ghpvc/?username=FilipiWanderley&label=Profile%20Views&color=FF3B30" />
+  <img src="https://img.shields.io/github/followers/FilipiWanderley?label=Followers&color=9B111E" />
+  <img src="https://img.shields.io/github/stars/FilipiWanderley?label=Stars&color=9B111E" />
 </p>
 
 <hr/>
@@ -70,13 +75,12 @@ const filipimoraes = {
 
 <hr/>
 
-<!-- SEM ÍCONE EXTRA AQUI -->
-<h2>Visão geral do GitHub</h2>
+<h2>📊 Visão geral do GitHub</h2>
 
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=FilipiWanderley&show_icons=true&hide_border=true&theme=github_dark&icon_color=1D9BF0"
+    src="https://github-readme-stats.vercel.app/api?username=FilipiWanderley&show_icons=true&hide_border=true&theme=github_dark&icon_color=FF3B30"
     alt="GitHub Stats"
   />
   <img
@@ -125,37 +129,31 @@ const filipimoraes = {
     <th align="center">Proficiência</th>
     <th align="left">Destaque Principal</th>
   </tr>
-
   <tr>
     <td><b>Desenvolvimento Frontend</b></td>
     <td align="center"><b>95%</b></td>
     <td>Design de interface, animações, responsividade</td>
   </tr>
-
   <tr>
     <td><b>Backend (Java / Spring)</b></td>
     <td align="center"><b>92%</b></td>
     <td>APIs escaláveis, microserviços, segurança, performance</td>
   </tr>
-
   <tr>
     <td><b>Integração Full-Stack</b></td>
     <td align="center"><b>85%</b></td>
     <td>Integração de APIs, arquitetura, persistência</td>
   </tr>
-
   <tr>
     <td><b>Design UI/UX</b></td>
     <td align="center"><b>88%</b></td>
     <td>Design centrado no usuário, acessibilidade, Design Systems</td>
   </tr>
-
   <tr>
     <td><b>Cloud & DevOps</b></td>
     <td align="center"><b>82%</b></td>
     <td>AWS/Azure, Docker, CI/CD, deploy resiliente</td>
   </tr>
-
   <tr>
     <td><b>IA & Automação</b></td>
     <td align="center"><b>78%</b></td>
@@ -200,16 +198,8 @@ const filipimoraes = {
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=FilipiWanderley&bg_color=0B1220&color=C9D1D9&line=1D9BF0&point=1D9BF0&area=true&hide_border=true"
-    
-  />
-</p>
-
-<!-- removido: qualquer img/ícone “solto” que causava imagem quebrada -->
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=FilipiWanderley&theme=algolia&no-frame=true&row=1&column=7"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=FilipiWanderley&bg_color=0B1220&color=C9D1D9&line=FF3B30&point=FF3B30&area=true&hide_border=true"
+    alt="Gráfico de atividade"
   />
 </p>
 
@@ -235,7 +225,7 @@ Recife, PE — Brasil
 
 <hr/>
 
-<h2>🤝 Vamos nos conectar</h2>
+<h2>💬✨ Vamos nos conectar</h2>
 
 <p align="center">
   Cada link abre uma camada diferente da minha jornada:
@@ -243,27 +233,24 @@ Recife, PE — Brasil
 
 <p align="center">
   <a href="https://www.linkedin.com/in/filipimoraes" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Jornada%20Profissional-1D9BF0?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jornada%20Profissional-9B111E?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/FilipiWanderley" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Portfólio%20de%20Código-0B1220?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://filipimoraes.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Showcase%20Interativo-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Showcase%20Interativo-FF3B30?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  📧 <b>Email:</b> <a href="mailto:filipiwms@gmail.com">filipiwms@gmail.com</a><br/>
+  📧 <b>Email:</b> <a href="mailto:filipiwms@gmail.com">filipiwms@gmail.com</a><br>
   🌍 <b>Disponível para trabalho remoto global</b>
 </p>
 
-<p align="center">
-  <i>“Código não é só lógica — é experiência, narrativa e impacto.”</i>
-</p>
-
+<!-- BANNER RODAPÉ (VERMELHO DEGRADÊ) -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Construa%20com%20Propósito&fontColor=FFFFFF&fontSize=32&color=0:0B1220,50:0A3D91,100:1D9BF0"
+    src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Construa%20com%20Propósito&fontColor=FFFFFF&fontSize=34&color=0:0B1220,50:9B111E,100:FF3B30"
   />
 </p>
