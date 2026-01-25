@@ -1,88 +1,270 @@
+<!-- =========================================================
+     FILIPI MORAES • GITHUB PROFILE README
+     Blue Theme • HTML Safe Version (PT-BR)
+========================================================= -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Filipi%20Moraes&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=52&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlign=50&descAlignY=60&animation=twinkling&color=0:0B1220,50:0A3D91,100:1D9BF0"
+  />
+</p>
+
+<h3 align="center">
+  Transformando problemas complexos em software escalável — da engenharia ao design.
+</h3>
+
+<!-- BOTÕES TOPO -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/filipimoraes" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-1D9BF0?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.behance.net/filipimoraes1" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Behance-0A3D91?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
+  <a href="mailto:filipiwms@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://filipimoraes.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfólio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/FilipiWanderley" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<!-- CONTADORES -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FilipiWanderley&label=Profile%20Views&color=1D9BF0" />
+  <img src="https://img.shields.io/github/followers/FilipiWanderley?label=Followers&color=0A3D91" />
+  <img src="https://img.shields.io/github/stars/FilipiWanderley?label=Stars&color=0A3D91" />
+</p>
+
+<hr/>
+
+<h2>🧠 Sobre mim</h2>
+
+<ul>
+  <li><b>Atuação:</b> Engenheiro de Software / Full Stack com foco em <b>Java 17+ (Spring Boot)</b> e <b>React/Next.js</b>.</li>
+  <li><b>Perfil:</b> Conecto <b>arquitetura e backend</b> com <b>interfaces de alto padrão</b> (Design Systems).</li>
+  <li><b>Especialidades:</b> APIs escaláveis, microserviços, segurança, performance, observabilidade e integrações.</li>
+  <li><b>Frontend:</b> Experiência PIXEL-perfect, acessibilidade (WCAG) e componentes reutilizáveis.</li>
+  <li><b>Cloud & DevOps:</b> AWS/Azure, Docker e CI/CD para deploy previsível e resiliente.</li>
+  <li><b>Automação & IA:</b> n8n + integrações via API e uso de IA generativa para produtividade.</li>
+  <li><b>Local:</b> Recife, Pernambuco — <b>remoto</b>, <b>híbrido</b> ou <b>presencial</b>.</li>
+</ul>
+
+<pre>
+const filipimoraes = {
+  cargo: "Engenheiro de Software | Full Stack Developer",
+  local: "Recife, Pernambuco, Brasil",
+  foco: [
+    "Java 17+ e Spring Boot (APIs, microserviços, performance)",
+    "React e Next.js (Design Systems, UX, acessibilidade)",
+    "Cloud (AWS/Azure), Docker e CI/CD",
+    "Automação com n8n e integrações via APIs"
+  ],
+  objetivo:
+    "Construir soluções robustas, escaláveis e elegantes, com alta qualidade técnica e ótima experiência do usuário."
+};
+</pre>
+
+<hr/>
+
+<!-- SEM ÍCONE EXTRA AQUI -->
+<h2>Visão geral do GitHub</h2>
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=FilipiWanderley&show_icons=true&hide_border=true&theme=github_dark&icon_color=1D9BF0"
+    alt="GitHub Stats"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipiWanderley&layout=compact&hide_border=true&theme=github_dark"
+    alt="Linguagens mais usadas"
+  />
+</p>
+
+<p align="center">
+  <img
+    height="170"
+    src="https://streak-stats.demolab.com?user=FilipiWanderley&theme=github-dark&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+<hr/>
+
+<h2>🧩 Stack tecnológica</h2>
+
 <div align="center">
-  <h1>Olá, eu sou Filipi Moraes 👋</h1>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Engenheiro+de+Software+%26+Full+Stack" alt="Typing SVG" />
+  <h4>💻 Linguagens</h4>
+  <img src="https://skillicons.dev/icons?i=java,ts,js,python,c" />
+
+  <h4>🧱 Backend & Arquitetura</h4>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,nestjs" />
+
+  <h4>🎨 Frontend & Design</h4>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,figma" />
+
+  <h4>🗄️ Banco de dados</h4>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+
+  <h4>☁️ Cloud, DevOps & Ferramentas</h4>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github" />
+</div>
+
+<hr/>
+
+<h2>📊 Distribuição de Expertise</h2>
+
+<table>
+  <tr>
+    <th align="left">Área de Atuação</th>
+    <th align="center">Proficiência</th>
+    <th align="left">Destaque Principal</th>
+  </tr>
+
+  <tr>
+    <td><b>Desenvolvimento Frontend</b></td>
+    <td align="center"><b>95%</b></td>
+    <td>Design de interface, animações, responsividade</td>
+  </tr>
+
+  <tr>
+    <td><b>Backend (Java / Spring)</b></td>
+    <td align="center"><b>92%</b></td>
+    <td>APIs escaláveis, microserviços, segurança, performance</td>
+  </tr>
+
+  <tr>
+    <td><b>Integração Full-Stack</b></td>
+    <td align="center"><b>85%</b></td>
+    <td>Integração de APIs, arquitetura, persistência</td>
+  </tr>
+
+  <tr>
+    <td><b>Design UI/UX</b></td>
+    <td align="center"><b>88%</b></td>
+    <td>Design centrado no usuário, acessibilidade, Design Systems</td>
+  </tr>
+
+  <tr>
+    <td><b>Cloud & DevOps</b></td>
+    <td align="center"><b>82%</b></td>
+    <td>AWS/Azure, Docker, CI/CD, deploy resiliente</td>
+  </tr>
+
+  <tr>
+    <td><b>IA & Automação</b></td>
+    <td align="center"><b>78%</b></td>
+    <td>Automação com n8n, integrações e IA generativa</td>
+  </tr>
+</table>
+
+<hr/>
+
+<h2>✨ Meus Diferenciais</h2>
+
+<table>
+  <tr>
+    <th align="left">Característica</th>
+    <th align="left">Aplicação Prática</th>
+  </tr>
+  <tr>
+    <td><b>Design com Propósito</b></td>
+    <td>Cada animação tem função — não é só estética, mas significado</td>
+  </tr>
+  <tr>
+    <td><b>Dados Humanizados</b></td>
+    <td>Transformo números frios em histórias que geram empatia e ação</td>
+  </tr>
+  <tr>
+    <td><b>Comunicação Clara</b></td>
+    <td>Tradução do técnico para o simples, com foco em usuários reais</td>
+  </tr>
+  <tr>
+    <td><b>Curva de Aprendizado Rápida</b></td>
+    <td>De zero à produção em projetos complexos em poucas semanas</td>
+  </tr>
+  <tr>
+    <td><b>Resiliência Profissional</b></td>
+    <td>Alta adaptabilidade e entrega consistente mesmo sob pressão</td>
+  </tr>
+</table>
+
+<hr/>
+
+<h2>📈 Atividade & gráficos</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=FilipiWanderley&bg_color=0B1220&color=C9D1D9&line=1D9BF0&point=1D9BF0&area=true&hide_border=true"
+    alt="Gráfico de atividade"
+  />
+</p>
+
+<!-- removido: qualquer img/ícone “solto” que causava imagem quebrada -->
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=FilipiWanderley&theme=algolia&no-frame=true&row=1&column=7"
+    alt="Troféus do GitHub"
+  />
+</p>
+
+<hr/>
+
+<h2>🌍 Aberto a oportunidades</h2>
+
+<pre>
+Cargos:
+- Engenheiro de Software
+- Desenvolvedor Full Stack
+- Backend (Java / Spring Boot)
+- Frontend (React / Next.js)
+
+Modelo:
+- Remoto
+- Híbrido
+- Presencial
+
+Local:
+Recife, PE — Brasil
+</pre>
+
+<hr/>
+
+<h2>🤝 Vamos nos conectar</h2>
+
+<p align="center">
+  Cada link abre uma camada diferente da minha jornada:
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/filipimoraes" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Jornada%20Profissional-1D9BF0?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
-  <p><em>Transformando problemas complexos em software escalável: do Design à Engenharia de Backend.</em></p>
-</div>
-
-<hr>
-
-## 👷 Sobre Mim
-
-Sou um profissional híbrido que conecta a lógica da **Engenharia** com a usabilidade do **Design**. Com background em Automação Industrial e Análise de Sistemas, hoje foco na construção de arquiteturas robustas e interfaces intuitivas.
-
-* ☕ **Backend**: Especialista em **Java (Spring Boot)**, APIs RESTful e Arquitetura de Microsserviços.
-* ⚛️ **Frontend**: Criação de interfaces Pixel-Perfect com **React, Next.js e TypeScript**.
-* 🎨 **Design**: UX/UI com foco em Design Systems (Figma).
-* ⚙️ **Engenharia**: Automação de processos com **Python, N8N, CLP e Ignition**.
-* 🌐 **Portfólio**: [filipimoraes.com](https://filipimoraes.com)
-
----
-
-## 🛠 Tech Stack
-
-### • Languages
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Ts" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-</div>
-
-### • Backend & Architecture
-<div style="display: inline_block"><br>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
-  <img src="https://img.shields.io/badge/Microservices-0078D4?style=for-the-badge&logo=microservices&logoColor=white" alt="Microservices">
-</div>
-
-### • Frontend & Design
-<div style="display: inline_block"><br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/UI/UX_Design-FF61F6?style=for-the-badge&logo=uiux&logoColor=white" alt="UI/UX">
-</div>
-
-### • Database
-<div style="display: inline_block"><br>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-</div>
-
-### • DevOps, Automation & Tools
-<div style="display: inline_block"><br>
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/N8N-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" alt="N8N">
-  <img src="https://img.shields.io/badge/Scrum-005696?style=for-the-badge&logo=scrum&logoColor=white" alt="Scrum">
-</div>
-
----
-
-## 📫 Vamos Conversar?
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/filipimoraes">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://github.com/FilipiWanderley" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfólio%20de%20Código-0B1220?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/FilipiWanderley">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <a href="https://filipimoraes.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Showcase%20Interativo-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="mailto:filipiwms@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://wa.me/5581995866387">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-  <a href="https://filipimoraes.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
-  </a>
-</div>
+</p>
+
+<p align="center">
+  📧 <b>Email:</b> <a href="mailto:filipiwms@gmail.com">filipiwms@gmail.com</a><br/>
+  🌍 <b>Disponível para trabalho remoto global</b>
+</p>
+
+<p align="center">
+  <i>“Código não é só lógica — é experiência, narrativa e impacto.”</i>
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Construa%20com%20Propósito&fontColor=FFFFFF&fontSize=32&color=0:0B1220,50:0A3D91,100:1D9BF0"
+  />
+</p>
