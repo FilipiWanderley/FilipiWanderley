@@ -1,7 +1,9 @@
 <div align="center">
   <h1>Olá, eu sou Filipi Moraes 👋</h1>
   
-  <h3>Engenheiro de Software & Full Stack</h3>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Engenheiro+de+Software+%26+Full+Stack" alt="Typing SVG" />
+  </a>
   
   <p><em>Transformando problemas complexos em software escalável: do Design à Engenharia de Backend.</em></p>
 </div>
