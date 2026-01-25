@@ -1,53 +1,86 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/FilipiWanderley/FilipiWanderley/main/banner-azul.png" alt="Filipi Moraes Banner" width="100%">
-
-  <h1>Filipi Moraes</h1>
-  <p><strong>Software Engineer | Full Stack Developer | Java (Spring Boot) & React (Next.js) | UI/UX Design</strong></p>
-
-  <p>
-    <a href="https://www.linkedin.com/in/filipimoraes"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://github.com/FilipiWanderley"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-    <a href="https://www.behance.net/filipimoraes1"><img src="https://img.shields.io/badge/Behance-0057ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a>
-  </p>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=FilipiWanderley&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=0078D4&icon_color=0078D4" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipiWanderley&layout=compact&theme=tokyonight&hide_border=true&title_color=0078D4" alt="Top Langs">
+  <h1>Olá, eu sou Filipi Moraes 👋</h1>
   
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=FilipiWanderley&color=0078D4&style=flat-square&label=Visualizações+do+Perfil" alt="Views">
-  </p>
+  <h3>Engenheiro de Software & Full Stack</h3>
+  
+  <p><em>Transformando problemas complexos em software escalável: do Design à Engenharia de Backend.</em></p>
+</div>
+
+<hr>
+
+## 👷 Sobre Mim
+
+Sou um profissional híbrido que conecta a lógica da **Engenharia** com a usabilidade do **Design**. Com background em Automação Industrial e Análise de Sistemas, hoje foco na construção de arquiteturas robustas e interfaces intuitivas.
+
+* ☕ **Backend**: Especialista em **Java (Spring Boot)**, APIs RESTful e Arquitetura de Microsserviços.
+* ⚛️ **Frontend**: Criação de interfaces Pixel-Perfect com **React, Next.js e TypeScript**.
+* 🎨 **Design**: UX/UI com foco em Design Systems (Figma).
+* ⚙️ **Engenharia**: Automação de processos com **Python, N8N, CLP e Ignition**.
+* 🌐 **Portfólio**: [filipimoraes.com](https://filipimoraes.com)
+
+---
+
+## 🛠 Tech Stack
+
+### • Languages
+<div style="display: inline_block"><br>
+  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Ts" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+</div>
+
+### • Backend & Architecture
+<div style="display: inline_block"><br>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
+  <img src="https://img.shields.io/badge/Microservices-0078D4?style=for-the-badge&logo=microservices&logoColor=white" alt="Microservices">
+</div>
+
+### • Frontend & Design
+<div style="display: inline_block"><br>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/UI/UX_Design-FF61F6?style=for-the-badge&logo=uiux&logoColor=white" alt="UI/UX">
+</div>
+
+### • Database
+<div style="display: inline_block"><br>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</div>
+
+### • DevOps, Automation & Tools
+<div style="display: inline_block"><br>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/N8N-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" alt="N8N">
+  <img src="https://img.shields.io/badge/Scrum-005696?style=for-the-badge&logo=scrum&logoColor=white" alt="Scrum">
 </div>
 
 ---
 
-## 🚀 Sobre Mim
+## 📫 Vamos Conversar?
 
-Especialista em unir engenharia de precisão com design centrado no humano para escalar produtos digitais. Com mais de **9 anos de atuação** como desenvolvedor em sistemas críticos, atuo como a ponte entre a necessidade do usuário e a viabilidade técnica.
-
-```java
-public class FilipiMoraes implements SeniorDeveloper {
-    String nome = "Filipi Moraes";
-    String cargo = "Software Engineer & Full Stack Developer";
-    String formacao = "Bacharelado em Engenharia de Software na UniFatecie";
-    
-    String[] stack_tecnica = {
-        "backend": "Java 17+, Spring Boot, Node.js, REST APIs, Microservices",
-        "frontend": "React, Next.js, TypeScript, Tailwind CSS, UI/UX Design",
-        "cloud": "AWS, Azure, Docker, PostgreSQL, MySQL",
-        "ferramentas": "VS Code, Figma, Postman, Git, N8N, CLP/Ignition"
-    };
-
-    String[] diferenciais = {
-        "Performance: Redução de 25% no tempo de resposta via otimização SQL",
-        "Agilidade: Aceleração de 40% na entrega com Design Systems escaláveis",
-        "Resiliência: Experiência em operações críticas e plataformas offshore"
-    };
-}
-💻 Stack TecnológicaDesenvolvimento Frontend & Design<p><img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" alt="React"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Next.js-000000%3Fstyle%3Dfor-the-badge%26logo%3Dnext.js%26logoColor%3Dwhite" alt="Next.js"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TS"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind_CSS-38B2AC%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite" alt="Tailwind"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></p>Backend, Database & Cloud<p><img src="https://www.google.com/search?q=https://img.shields.io/badge/Java-007396%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3Dwhite" alt="Java"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Spring_Boot-6DB33F%3Fstyle%3Dfor-the-badge%26logo%3Dspring-boot%26logoColor%3Dwhite" alt="Spring Boot"><img src="https://www.google.com/search?q=https://img.shields.io/badge/AWS-232F3E%3Fstyle%3Dfor-the-badge%26logo%3Damazon-aws%26logoColor%3Dwhite" alt="AWS"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Azure-0089D6%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoft-azure%26logoColor%3Dwhite" alt="Azure"><img src="https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-336791%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="Postgres"></p>Ferramentas & Automação Industrial<p><img src="https://www.google.com/search?q=https://img.shields.io/badge/VS_Code-007ACC%3Fstyle%3Dfor-the-badge%26logo%3Dvisual-studio-code%26logoColor%3Dwhite" alt="VS Code"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker"><img src="https://www.google.com/search?q=https://img.shields.io/badge/N8N-FF6C37%3Fstyle%3Dfor-the-badge%26logo%3Dn8n%26logoColor%3Dwhite" alt="N8N"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Postman-FF6C37%3Fstyle%3Dfor-the-badge%26logo%3Dpostman%26logoColor%3Dwhite" alt="Postman"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git"></p>📊 Distribuição de ExpertiseÁrea de AtuaçãoProficiênciaDestaque PrincipalArquitetura Backend██████████ 95%Java 17+, microserviços e APIs REST.Integração Cloud█████████░ 90%Orquestração em AWS/Azure e Docker.Desenvolvimento Frontend█████████░ 90%Interfaces performáticas em React e Next.js.UX/UI & Design Systems████████░░ 80%Design centrado no usuário e acessibilidade.Automação Industrial████████░░ 80%Sistemas críticos e manutenção offshore.🚀 Projetos em Destaque🏥 CRM Boa FormaImpacto: Gestão de ecossistemas fitness com arquitetura multi-tenant.Stack: Java, Spring Boot, React, PostgreSQL.Destaque: Arquitetura escalável para dados sensíveis e alto volume.⚖️ Aurum AdvocaciaImpacto: Modernização digital para o setor jurídico com Design System próprio.Stack: Next.js, Tailwind, Figma.Destaque: Redução de 40% no tempo de entrega de funcionalidades.⭐ Meus DiferenciaisCaracterísticaAplicação PráticaEngenharia de PrecisãoLógica industrial aplicada à resolução de problemas de software.Otimização de CódigoRedução de 25% no tempo de resposta via queries eficientes.Entrega EscalávelComponentização que acelera o desenvolvimento em 40%.Resiliência em TIAtuação em infraestrutura e sistemas críticos (90% de resolução).🏗️ Atividade de Contribuições<p align="center"><img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DFilipiWanderley%26theme%3Dtokyonight%26bg_color%3D0D1117%26color%3D0078D4%26line%3D0078D4%26point%3DFFFFFF%26area%3Dtrue%26hide_border%3Dtrue" width="100%"></p>🎯 Aberta a Oportunidades | Open to OpportunitiesJSON{
-  "buscando": "Software Engineer Senior / Especialista Full Stack",
-  "foco": ["Arquitetura Java", "Ecossistema React/Next.js", "Cloud Infrastructure"],
-  "disponibilidade": "Imediata",
-  "modelo_trabalho": ["Remoto", "Híbrido"],
-  "localizacao": "Recife, Brasil (Aberto a realocação)"
-}
-<div align="center"><h3>📫 Vamos nos conectar?</h3><p align="center"><a href="mailto:filipiwms@gmail.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"></a><a href="https://www.google.com/search?q=https://wa.me/5581995866387"><img src="https://www.google.com/search?q=https://img.shields.io/badge/WhatsApp-25D366%3Fstyle%3Dfor-the-badge%26logo%3Dwhatsapp%26logoColor%3Dwhite" alt="WhatsApp"></a></p><p><i>"A robustez do código nunca deve comprometer a fluidez da experiência."</i></p></div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/filipimoraes">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/FilipiWanderley">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:filipiwms@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://wa.me/5581995866387">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="https://filipimoraes.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
+  </a>
+</div>
