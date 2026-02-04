@@ -110,7 +110,7 @@ const filipimoraes = {
   <img src="https://skillicons.dev/icons?i=spring,nodejs,nestjs" />
 
   <h4>🎨 Frontend & Design</h4>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,sass,figma" />
 
   <h4>🗄️ Banco de dados</h4>
   <img src="https://skillicons.dev/icons?i=postgres,mysql" />
