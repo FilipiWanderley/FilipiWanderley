@@ -42,8 +42,6 @@
 
 ## 🧠 Sobre Mim
 
-## 🧠 Sobre Mim
-
 Sou um **AI Engineer** focado em construir sistemas de IA prontos para produção com **LLMs, RAG, agentes e aplicações GenAI**.
 
 Atuo desenvolvendo soluções completas — desde **pipelines de IA em Python** até **APIs robustas e escaláveis** — integrando modelos de linguagem em produtos reais.
