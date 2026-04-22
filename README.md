@@ -42,12 +42,15 @@
 
 ## 🧠 Sobre Mim
 
-Sou um **AI Engineer** com forte base em **Engenharia de Software**, focado em construir **sistemas de IA prontos para produção** com LLMs, RAG, agentes e arquiteturas backend escaláveis.
+## 🧠 Sobre Mim
 
-Uno experiência em **Java / Spring Boot, design de sistemas, APIs e cloud** com **pipelines de IA em Python** para criar produtos inteligentes que vão além de protótipos.
+Sou um **AI Engineer** focado em construir sistemas de IA prontos para produção com **LLMs, RAG, agentes e aplicações GenAI**.
 
-Não trabalho só com integração de IA — eu construo **sistemas completos, seguros, escaláveis e utilizáveis no mundo real**.
+Atuo desenvolvendo soluções completas — desde **pipelines de IA em Python** até **APIs robustas e escaláveis** — integrando modelos de linguagem em produtos reais.
 
+Tenho forte base em **engenharia de software**, o que me permite construir sistemas **seguros, performáticos e preparados para ambientes de produção**.
+
+Mais do que usar IA, eu **projeto e entrego sistemas inteligentes que funcionam no mundo real**.
 ---
 
 ## 🚀 O que eu construo
@@ -152,12 +155,13 @@ Sistema multi-tenant confiável com retry, DLQ, observabilidade e segurança.
 
 ## 🧠 About Me
 
-I’m an **AI Engineer** with a strong **Software Engineering** background, focused on building **production-ready AI systems** with LLMs, RAG, AI agents, and scalable backend architectures.
+I’m an **AI Engineer** focused on building **production-ready AI systems** using **LLMs, RAG, agents, and GenAI applications**.
 
-I combine experience in **Java / Spring Boot, system design, APIs, and cloud** with **Python-based AI pipelines** to build intelligent products that go far beyond prototypes.
+I develop **end-to-end solutions** — from **Python-based AI pipelines** to **scalable backend APIs** — integrating language models into real-world products.
 
-I don’t just integrate AI — I build **complete systems that are secure, scalable, and usable in the real world**.
+With a strong background in **software engineering**, I build systems that are **secure, performant, and ready for production environments**.
 
+More than using AI, I **design and deliver intelligent systems that actually work in the real world**.
 ---
 
 ## 🚀 What I Build
